@@ -1,2 +1,2 @@
 # Sharp PDF Utility
-Split, Combine and other with PDF File
+Split, Combine and Other with PDF File
